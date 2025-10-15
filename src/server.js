@@ -1,7 +1,7 @@
 import bodyParser from "body-parser";
 import { v4 } from "uuid";
 import express from "express";
-import db from "./database.js";
+import db from "../src/database.js";
 
 //const express = require(express);
 //const bodyParser = require("body-parser");
